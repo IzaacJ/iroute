@@ -1,0 +1,8 @@
+Package: me.izaacj.ios.iroute
+Name: iRoute
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simulate persistent static routes!
+Maintainer: Izaac Brånn
+Author: Izaac Brånn
+Section: Utilities
